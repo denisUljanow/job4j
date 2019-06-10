@@ -1,2 +1,16 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package File #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs
+
+.idea
+*.iml
 
 target
